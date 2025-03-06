@@ -1,8 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 body {
     background-color: black;
@@ -34,4 +29,8 @@ li, p {
     font-size: 22px;
     max-width: 80%;
     line-height: 1.5;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 37c5c245ee05f714a68dcfc4449c86f4244edc17
