@@ -1,7 +1,7 @@
 
 body {
     background-color: black;
-    color: red;
+    color: white;
     text-align: center;
     width: 100vw;
     height: 100vh;
@@ -29,8 +29,4 @@ li, p {
     font-size: 22px;
     max-width: 80%;
     line-height: 1.5;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 37c5c245ee05f714a68dcfc4449c86f4244edc17
