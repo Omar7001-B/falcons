@@ -1,6 +1,6 @@
-# Falcon Server 
+# Falcon Server  
 
-A website for our gaming and coding group.
+A website for our gaming and coding group. 
 
 ## What We Do
 
